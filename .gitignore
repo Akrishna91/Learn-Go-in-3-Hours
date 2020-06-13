@@ -1,2 +1,14 @@
 .DS_Store
 
+*.iml
+*.ipr
+*.iws
+.idea
+*.swp
+.project
+.svn
+.DS_Store
+/data/
+.settings/
+overlays/
+**/.idea
